@@ -1,0 +1,24 @@
+
+*******************  < Parallel Sorting for 12 threads> ******************
+Total Number of items to sort in text file: 100000
+Highest value in text file  : 999.979065
+Lowest number in text file : -999.984390
+*****************  < Dividing our array into 12 parts >  *******************
+Thread 0 has 8279 numbers calculates from low value = -999.984390 to high value = -833.320769 
+Thread 1 has 8311 numbers calculates from low value = -833.320769 to high value = -666.657147 
+Thread 3 has 8244 numbers calculates from low value = -499.993526 to high value = -333.329905 
+Thread 2 has 8527 numbers calculates from low value = -666.657147 to high value = -499.993526 
+Thread 4 has 8344 numbers calculates from low value = -333.329905 to high value = -166.666284 
+Thread 5 has 8254 numbers calculates from low value = -166.666284 to high value = -0.002662 
+Thread 6 has 8261 numbers calculates from low value = -0.002662 to high value = 166.660959 
+Thread 7 has 8388 numbers calculates from low value = 166.660959 to high value = 333.324580 
+Thread 8 has 8264 numbers calculates from low value = 333.324580 to high value = 499.988201 
+Thread 9 has 8427 numbers calculates from low value = 499.988201 to high value = 666.651823 
+Thread 10 has 8346 numbers calculates from low value = 666.651823 to high value = 833.315444 
+Thread 11 has 8355 numbers calculates from low value = 833.315444 to high value = 999.979065 
+Equal numbers are: -792.362853
+Equal numbers are: -390.572404
+Equal numbers are: -38.428538
+Load_imbalance:0.033189
+Elapsed Wall time for Sorting : 0.083729
+Elapsed Total Job time: 0.536161
