@@ -1,0 +1,30 @@
+*************(Option 3)***************
+*********For 8 number of threads********
+
+Program to calculate energy of water
+Input NAME of configuration file
+Number of molecules 100000
+first line 0.230000 0.628000 0.113000
+Box size 14.420000
+
+Total energy: -4248073.660822
+ Energy per molecule: -42.480737
+ Load_imbalance:0.000140
+
+Max Wall Time of Reading:0.253552
+Max Wall Time of Calculation:4.934385
+Max Wall Total Job Time: 5.183468
+
+Total Number of pairs calculated by formula:4999950000.000000
+Actual Number of pairs calculated by Reduce:4999950000.000000
+Minimum Number of pairs among all threads:624950000.000000
+Maximum Number of pairs among all threads:625037500.000000
+
+Number of pairs calculated by thread No 0 is : 625037500.000000
+Number of pairs calculated by thread No 1 is : 625025000.000000
+Number of pairs calculated by thread No 2 is : 625012500.000000
+Number of pairs calculated by thread No 3 is : 625000000.000000
+Number of pairs calculated by thread No 4 is : 624987500.000000
+Number of pairs calculated by thread No 5 is : 624975000.000000
+Number of pairs calculated by thread No 6 is : 624962500.000000
+Number of pairs calculated by thread No 7 is : 624950000.000000
