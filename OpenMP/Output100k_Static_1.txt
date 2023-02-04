@@ -1,0 +1,26 @@
+
+**********Energy calculation OPEN MP***********
+Program to calculate energy of water
+Input NAME of configuration file
+Number of molecules 100000
+first line 0.230000 0.628000 0.113000
+Box size 14.420000
+Number of pairs calculated by thread No 1 is : 416700000.000000 
+Number of pairs calculated by thread No 11 is : 416616668.000000 
+Number of pairs calculated by thread No 7 is : 416650000.000000 
+Number of pairs calculated by thread No 9 is : 416633334.000000 
+Number of pairs calculated by thread No 3 is : 416683332.000000 
+Number of pairs calculated by thread No 10 is : 416625001.000000 
+Number of pairs calculated by thread No 5 is : 416666666.000000 
+Number of pairs calculated by thread No 8 is : 416641667.000000 
+Number of pairs calculated by thread No 2 is : 416691666.000000 
+Number of pairs calculated by thread No 4 is : 416674999.000000 
+Number of pairs calculated by thread No 0 is : 416708334.000000 
+Number of pairs calculated by thread No 6 is : 416658333.000000 
+Minimum Number of pairs among all threads:416616668.000000 
+Maximum Number of pairs among all threads:416708334.000000 
+Load_Imbalance:0.000220
+Total energy -4248073.660822 
+ Energy per molecule -42.480737 
+Elapsed wall time: 4.233338
+Elapsed CPU  time: 50.687943
